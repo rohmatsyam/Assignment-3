@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"assignment3/controllers/statuses"
+	statuses "assignment3/controllers/Statuses"
 
 	"github.com/gin-gonic/gin"
 )
